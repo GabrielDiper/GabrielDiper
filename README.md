@@ -13,7 +13,7 @@ style="display: inline_block">
 </br> 
 
 </br>
- <img align="center" alt="c++" src=https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img align="center" alt="c" src=https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 
  </br>
 
@@ -22,4 +22,5 @@ style="display: inline_block">
 </div></br>
 
 ## Não é a linguagem de programação que define o programador, mas sim sua lógica.💡
+
 
